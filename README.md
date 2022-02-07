@@ -9,11 +9,11 @@ Esta aplicação possui intuito didatico, o qual abrange tecnologias de <b>Back 
 
 <h1>Observação</h1>
 Para utilizar esta aplicação deve-se instalar os seguintes módulos npm.
-npm install express
-npm install cors
+<p>npm install express</p> 
+<p>npm install cors</p> 
 
 <h1>Linguagens Utilizadas:</h1>
-HTML ✔️
-CSS ✔️
-Java Script ✔️
-Node Js ✔️
+<p>HTML ✔️</p> 
+<p>CSS ✔️</p> 
+<p>Java Script ✔️</p> 
+<p>Node Js ✔️</p> 
